@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "page1.html",
+    "name": "Landing Checklist ZYGHT",
+    "currentPage": "inde.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 17,
     "versionPublish": "4.10.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/icono-pagina-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -571,9 +573,9 @@
         }
       ]
     },
-    "page1.html": {
+    "inde.html": {
       "settings": {
-        "meta_descr": "Web Generator Description",
+        "meta_descr": "Nueva Categorización de Checklist de ZYGHT",
         "title": "Landing-Checklist",
         "order": 1
       },
