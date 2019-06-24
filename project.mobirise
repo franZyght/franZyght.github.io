@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Landing Checklist ZYGHT",
-    "currentPage": "inde.html",
+    "currentPage": "landing-checklist.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -573,7 +573,7 @@
         }
       ]
     },
-    "inde.html": {
+    "landing-checklist.html": {
       "settings": {
         "meta_descr": "Nueva Categorización de Checklist de ZYGHT",
         "title": "Landing-Checklist",
