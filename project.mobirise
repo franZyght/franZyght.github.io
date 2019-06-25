@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Landing Checklist ZYGHT",
-    "currentPage": "page2.html",
+    "currentPage": "pagina-prueba.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1314,9 +1314,9 @@
         }
       ]
     },
-    "page2.html": {
+    "pagina-prueba.html": {
       "settings": {
-        "meta_descr": "Nueva Categorización de Checklist de ZYGHT",
+        "meta_descr": "prueba formulario",
         "title": "Landing-prueba-formulario",
         "order": 2
       },
