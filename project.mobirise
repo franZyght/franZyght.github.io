@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Landing Checklist ZYGHT",
-    "currentPage": "page3.html",
+    "currentPage": "landing-training-center.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2092,9 +2092,9 @@
         }
       ]
     },
-    "page3.html": {
+    "landing-training-center.html": {
       "settings": {
-        "meta_descr": "Nueva Categorización de Checklist de ZYGHT",
+        "meta_descr": "LAnding Training Center ZYGHT",
         "title": "Landing-Training-Center",
         "order": 2
       },
