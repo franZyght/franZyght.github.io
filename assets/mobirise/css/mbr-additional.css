@@ -1820,37 +1820,39 @@ body {
 .cid-rwYgE3qoD0 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rwI2JV2wHJ {
+.cid-rwZpe5PJss {
+  padding-top: 135px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/fondo-landing-2000x1411.jpg");
 }
-.cid-rwI2JV2wHJ .form-control,
-.cid-rwI2JV2wHJ .form-control:focus {
+.cid-rwZpe5PJss .form-control,
+.cid-rwZpe5PJss .form-control:focus {
   background: #ffffff;
   border: 1px solid #ffffff;
 }
-.cid-rwI2JV2wHJ .form-container {
+.cid-rwZpe5PJss .form-container {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
 }
-.cid-rwI2JV2wHJ textarea.form-control {
+.cid-rwZpe5PJss textarea.form-control {
   min-height: 188px;
 }
-.cid-rwI2JV2wHJ .input-group-btn {
+.cid-rwZpe5PJss .input-group-btn {
   justify-content: center;
   -webkit-justify-content: center;
 }
 @media (min-width: 768px) {
-  .cid-rwI2JV2wHJ .content-container {
+  .cid-rwZpe5PJss .content-container {
     padding-right: 5rem;
   }
 }
-.cid-rwI2JV2wHJ .mbr-text,
-.cid-rwI2JV2wHJ .mbr-section-btn {
-  text-align: center;
+.cid-rwZpe5PJss H1 {
+  text-align: left;
 }
-.cid-rwI2JV2wHJ H1 {
-  text-align: center;
+.cid-rwZpe5PJss .mbr-text,
+.cid-rwZpe5PJss .mbr-section-btn {
+  text-align: left;
 }
 .cid-rwYS1KmIvZ {
   background: #ffffff;
